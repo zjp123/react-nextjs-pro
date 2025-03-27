@@ -1,0 +1,14 @@
+# 构建输出目录
+.next/
+out/
+build/
+dist/
+
+# 依赖目录
+node_modules/
+
+# 缓存目录
+.cache/
+
+# 其他不需要检查的文件
+*.min.css
