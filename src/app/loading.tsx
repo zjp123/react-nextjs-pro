@@ -2,7 +2,7 @@
 import { FC } from 'react';
 
 const Loading: FC = () => {
-  return <div>Loading...</div>;
+  return <div style={{ backgroundColor: 'red', color: 'red' }}>Loading...</div>;
 };
 
 export default Loading;
