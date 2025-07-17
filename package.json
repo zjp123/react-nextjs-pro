@@ -15,6 +15,11 @@
   },
   "dependencies": {
     "@ant-design/nextjs-registry": "^1.0.2",
+    "@opentelemetry/auto-instrumentations-node": "^0.62.0",
+    "@opentelemetry/resources": "^2.0.1",
+    "@opentelemetry/sdk-node": "^0.203.0",
+    "@opentelemetry/semantic-conventions": "^1.36.0",
+    "@vercel/otel": "^1.13.0",
     "axios": "^1.8.4",
     "next": "15.2.4",
     "react": "^19.0.0",
