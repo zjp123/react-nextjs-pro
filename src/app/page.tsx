@@ -1,5 +1,5 @@
 import Image from 'next/image';
-import Counter from './components/Counter';
+import Counter from '@/components/Counter';
 import Layout from './layout';
 import Loading from './loading';
 import { Suspense } from 'react';
